@@ -1,0 +1,16 @@
+nav{
+    /* background-color: #732cff; */
+    background-color: #7745d8d6;
+    color: white;
+    font-style: italic;
+}
+
+nav a{
+    text-decoration: none;
+    color: white;
+    font-size: x-large;
+}
+
+label{
+    font-size: larger;
+}
