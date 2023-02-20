@@ -17,8 +17,8 @@ const updateTime = () =>{
 
     if(date.getHours()==alarmhour && date.getMinutes() == alarmmin){
         console.log ("alarm ringing");
-//         let audio="https://file-examples.com/storage/fe19e1a6e563854389e633c/2017/11/file_example_MP3_700KB.mp3";
-        let audio="audio.mp3";
+        let audio="https://file-examples.com/storage/fe1aa0c9d563ea1e4a1fd34/2017/11/file_example_MP3_1MG.mp3";
+//         let audio="audio.mp3";
         var audio2 = new Audio(audio);
         audio2.play();
     }
